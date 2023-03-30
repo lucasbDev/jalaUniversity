@@ -1,10 +1,10 @@
 #Exercício
 
-#Os alunos devem incrementar o código com variáveis e métodos
-#se acharem necessário e, ao final, imprimir na tela todo o histórico
-#do aluno com todas as notas e médias, inclusive informando se o status
-#do aluno foi: "aprovado por média", "aprovado na final" ou "reprovado".
-#consideram que a média aritimética para aprovação é 7,0 (sete) e após final 5,0 (cinco).
+""" Os alunos devem incrementar o código com variáveis e métodos
+    se acharem necessário e, ao final, imprimir na tela todo o histórico
+    do aluno com todas as notas e médias, inclusive informando se o status
+    do aluno foi: "aprovado por média", "aprovado na final" ou "reprovado".
+    consideram que a média aritimética para aprovação é 7,0 (sete) e após final 5,0 (cinco) """
 
 class Aluno:
     def __init__(self, nome):
